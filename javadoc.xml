@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<project default="javadoc">
+    <target name="javadoc">
+        <javadoc access="private" additionalparam=" -encoding UTF-8&#10;-charset UTF-8" author="true" classpath="/Applications/h2/bin/h2-1.4.192.jar" destdir="doc" nodeprecated="false" nodeprecatedlist="false" noindex="false" nonavbar="false" notree="false" packagenames="銘柄マスタ管理" source="1.8" sourcepath="src" splitindex="true" use="true" version="true"/>
+    </target>
+</project>
